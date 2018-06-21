@@ -1,0 +1,198 @@
+[
+    {
+        "outputFile": "F:\\Android T3H\\AppSleepSound\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-large-xxxhdpi-v4\\values-large-xxxhdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\values-large-xxxhdpi\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 46,
+                    "endOffset": 139
+                },
+                "from": {
+                    "file": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\values-large-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 548,
+                        "endColumn": 46,
+                        "endOffset": 590
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 144,
+                    "endColumn": 41,
+                    "endOffset": 181
+                },
+                "from": {
+                    "file": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\values-large-xxxhdpi\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 186,
+                    "endColumn": 45,
+                    "endOffset": 227
+                },
+                "from": {
+                    "file": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\values-large-xxxhdpi\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 232,
+                    "endColumn": 50,
+                    "endOffset": 278
+                },
+                "from": {
+                    "file": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\values-large-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 596,
+                        "endColumn": 50,
+                        "endOffset": 642
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 283,
+                    "endColumn": 45,
+                    "endOffset": 324
+                },
+                "from": {
+                    "file": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\values-large-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 454,
+                        "endColumn": 45,
+                        "endOffset": 495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 329,
+                    "endColumn": 41,
+                    "endOffset": 366
+                },
+                "from": {
+                    "file": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\values-large-xxxhdpi\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 371,
+                    "endColumn": 40,
+                    "endOffset": 407
+                },
+                "from": {
+                    "file": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\values-large-xxxhdpi\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 412,
+                    "endColumn": 49,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\values-large-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 403,
+                        "endColumn": 49,
+                        "endOffset": 448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 462,
+                    "endColumn": 43,
+                    "endOffset": 501
+                },
+                "from": {
+                    "file": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\values-large-xxxhdpi\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 506,
+                    "endColumn": 39,
+                    "endOffset": 541
+                },
+                "from": {
+                    "file": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\values-large-xxxhdpi\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 546,
+                    "endColumn": 40,
+                    "endOffset": 582
+                },
+                "from": {
+                    "file": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\values-large-xxxhdpi\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 587,
+                    "endColumn": 45,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\values-large-xxxhdpi\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 501,
+                        "endColumn": 45,
+                        "endOffset": 542
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,4 @@
+#Thu Jun 21 16:11:06 ICT 2018
+base.0=F\:\\AppSleepSound-20180621T085031Z-001\\AppSleepSound\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0
+renamed.0=classes.dex
+file.0=F\:\\AppSleepSound-20180621T085031Z-001\\AppSleepSound\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_0\\classes.dex

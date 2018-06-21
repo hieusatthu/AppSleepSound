@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="rate"
+        android:id="@+id/menu_rate"
+        android:icon="@mipmap/ic_star"
+        app:showAsAction="always"
+        />
+    <item
+        android:title="share"
+        android:id="@+id/menu_share"
+        android:icon="@drawable/ic_share"
+        app:showAsAction="always"
+        />
+    <item
+        android:title="clock"
+        android:id="@+id/menu_clock"
+        android:icon="@mipmap/clocktwo"
+        app:showAsAction="always"
+        ></item>
+</menu>

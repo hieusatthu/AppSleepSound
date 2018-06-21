@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "934727934715",
+    "firebase_url": "https://quang-cao-1eed3.firebaseio.com",
+    "project_id": "quang-cao-1eed3",
+    "storage_bucket": "quang-cao-1eed3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934727934715:android:c97890b246be0e2a",
+        "android_client_info": {
+          "package_name": "sound.sleepsound.soundleept3h"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934727934715-i4hd23snh0f7kilr4nntbqj1ndl6f79j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sound.sleepsound.soundleept3h",
+            "certificate_hash": "0fe632dc910cec7040359187d286c75bfb40fef1"
+          }
+        },
+        {
+          "client_id": "934727934715-stc2hm8qr74u85rpdqkqiijmuivh9l9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAICxDjBuZblrEEBIqN2n08nK3iKvPtMaw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934727934715-stc2hm8qr74u85rpdqkqiijmuivh9l9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

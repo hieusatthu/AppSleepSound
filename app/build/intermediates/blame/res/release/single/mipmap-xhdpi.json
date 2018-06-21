@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\Android T3H\\AppSleepSound\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\ic_app_two.png",
+        "source": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\mipmap-xhdpi\\ic_app_two.png"
+    },
+    {
+        "merged": "F:\\Android T3H\\AppSleepSound\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Android T3H\\AppSleepSound\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\clocktwo.png",
+        "source": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\mipmap-xhdpi\\clocktwo.png"
+    },
+    {
+        "merged": "F:\\Android T3H\\AppSleepSound\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Android T3H\\AppSleepSound\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi\\ic_star.png",
+        "source": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\mipmap-xhdpi\\ic_star.png"
+    }
+]

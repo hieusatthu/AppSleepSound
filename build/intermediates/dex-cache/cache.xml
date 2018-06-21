@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\c918fb3bf540327096063b00a324f5ddb58e66f3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\pre-dexed\release\classes_d45a35a120866b44942fa27663a0568378ae6dcf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\20ea40c90d53fa94737264ed3d36deef0bec888a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\pre-dexed\release\classes_66705fa23c1100a08b74a3aaf7f7625a3bd80821.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\38a5b0e65a81a3cc1d8681d021f3a78b0d211409\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\pre-dexed\debug\classes_b6262d26f30afc71bedb379ec99bc93c45f44700.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\cad7cb10fdb02406de99033e67b18fb7a67f45c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4e23b78a184d3262fded46f4799f3b529aaca5b1">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\pre-dexed\debug\classes_30d45cf09ffc4e1a12f285531be4b2ed0fe0516d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\d0fa5ea75c2844132672c393da59bc1af11ea2f8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1db6784d006818fee2591f13b0bf09ac31a3d49a">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\pre-dexed\debug\classes_81571e84599e3d16740a3ed22ae7e809924b386e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\12cd98357a98f62455d691f1dd12a7e6856e4458\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="F:\AppSleepSound-20180621T085031Z-001\AppSleepSound\app\build\intermediates\pre-dexed\debug\classes_f2afedeb781e3c526d0f3737a5660a3c418f042a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\songsong\.android\build-cache\9961ef4d7885b2e31271cf046a6058348a40432d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bc075738e998f1ae97f217320272e4668514f093\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\b496582d088b2ad223b54d961377fe9ed8203d0c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="F:\AppSleepSound-20180621T085031Z-001\AppSleepSound\app\build\intermediates\pre-dexed\debug\classes_6a38647fd1e15eb30f465387105012fac8e181a1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\songsong\.android\build-cache\36d8673f81b465503698fa6993cc67518adfdd2f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_57554c2a7102946179f4dc129eef29b08ffbc3f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\76687a62b5515d9c562028cc4fd990df548ef6c2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\pre-dexed\release\classes_eb1177748ce6c7bf3fe654e41a42ba71cafbb28b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\b3d22a44ae070b6076df1578c96b02d17d09eb37\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\pre-dexed\release\classes_d097b67aee200ff175afb2ccb526ae6de70eee12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\82c0257986ef6064780fdbd1960c15ce5fa8b6a3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\pre-dexed\release\classes_f8743939f731955ad2afe85c58cfa79ef651095e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\1e70aa6bf183c4f06647a45cd735a538ffb712ac\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="F:\AppSleepSound-20180621T085031Z-001\AppSleepSound\app\build\intermediates\pre-dexed\debug\classes_8a62d877f3552a4e2cedbe0e24b75232637fc669.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\f6079b56985e52a239043255766af364c054e951\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\pre-dexed\release\classes_9d29e0b8eedb1c9e4a919c2e12c2ff9249a08690.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\0c2dcb4aac0ff1ee7253f7a2abc30e33d576309e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cd438c6f60250715412caab24d2ba9143df748e2">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\pre-dexed\debug\classes_57a76d7f41bed01330d3a0a60d0ebcfc6e1d6f68.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\songsong\.android\build-cache\92ffa0ef298bef7eafa97f533c6de5961cd98046\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a1d5675b2c794a1de3953aa58c5cf3447119c641\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="F:\AppSleepSound-20180621T085031Z-001\AppSleepSound\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_a61e5d78f235980810320fdbb1019c5136ba0f69.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fe61e5371809483b7fde04205b7f0cca24a3dec9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android T3H\AppSleepSound\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="84014d746652407b448d30cb9144cd29fa8d0afb">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ee01707146f1627303e7bfb154e5a58e9c4b2fe2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\92a8e52474a07b75ddfd8801972f90e1ba8ce9c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="F:\AppSleepSound-20180621T085031Z-001\AppSleepSound\app\build\intermediates\pre-dexed\debug\classes_5b6bfb3f36057b7d1aae3e32ab7082acf658386b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\c096156512a53a84adbd7f7c288571fcccee87a7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\pre-dexed\release\classes_3829487cbbf09b213f8adf9c8848383d0a8e67c7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\songsong\.android\build-cache\20ea40c90d53fa94737264ed3d36deef0bec888a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_66705fa23c1100a08b74a3aaf7f7625a3bd80821\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\songsong\.android\build-cache\c918fb3bf540327096063b00a324f5ddb58e66f3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d45a35a120866b44942fa27663a0568378ae6dcf\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\7a4c44d57f1c61929f5d2d521a6144f0ba3620ed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="F:\AppSleepSound-20180621T085031Z-001\AppSleepSound\app\build\intermediates\pre-dexed\debug\classes_bd3fdf35fffeb18ac92b4b9168e7a6b5f89a923e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\575d6ffb3ca26249f589b995a8eeff504ed50348\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="F:\AppSleepSound-20180621T085031Z-001\AppSleepSound\app\build\intermediates\pre-dexed\debug\classes_9dc5361c70db0062a0e5157eb7ddd4597513a486.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\000c9ac6678a0cdef0deaba2df1cbeafb9c993a2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\AppSleepSound-20180621T085031Z-001\AppSleepSound\app\build\intermediates\pre-dexed\debug\classes_fa261dbf4bd600ac7252a000c329f88e1c4a39c7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\songsong\.android\build-cache\76687a62b5515d9c562028cc4fd990df548ef6c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb1177748ce6c7bf3fe654e41a42ba71cafbb28b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\cd6caa0785cf46261307e813b737e0e421360145\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\pre-dexed\debug\classes_e55a91b4d25224e5aea0cffd46b262c5c988a5a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\e3f026cbb8cd0bd5ee61214d65d5ced2db9429b3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\pre-dexed\debug\classes_78712d9a82ecda769a3e9a262177812b3efa7d44.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android T3H\AppSleepSound\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_2250c363bd14256794721adb232871f965db5d7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\883766fa501dd4d7e2278750f4d554c1bebb4dd7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="F:\AppSleepSound-20180621T085031Z-001\AppSleepSound\app\build\intermediates\pre-dexed\debug\classes_abf8ed1f688c33f1be9db05b8c78eac829080016.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\9961ef4d7885b2e31271cf046a6058348a40432d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\pre-dexed\release\classes_bc075738e998f1ae97f217320272e4668514f093.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\36d8673f81b465503698fa6993cc67518adfdd2f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\pre-dexed\release\classes_57554c2a7102946179f4dc129eef29b08ffbc3f3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\songsong\.android\build-cache\b3d22a44ae070b6076df1578c96b02d17d09eb37\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d097b67aee200ff175afb2ccb526ae6de70eee12\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="F:\AppSleepSound-20180621T085031Z-001\AppSleepSound\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_a7ac4d3c4fd3825768b9a187c80b6531f63daa7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\735f90edc700c81af44b85432e1844b6de1c9425\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="F:\AppSleepSound-20180621T085031Z-001\AppSleepSound\app\build\intermediates\pre-dexed\debug\classes_028e98d60eef22450309d7499c0545c3884eb174.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\songsong\.android\build-cache\82c0257986ef6064780fdbd1960c15ce5fa8b6a3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f8743939f731955ad2afe85c58cfa79ef651095e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\songsong\.android\build-cache\f6079b56985e52a239043255766af364c054e951\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9d29e0b8eedb1c9e4a919c2e12c2ff9249a08690\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\pre-dexed\release\classes_fe61e5371809483b7fde04205b7f0cca24a3dec9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\songsong\.android\build-cache\c096156512a53a84adbd7f7c288571fcccee87a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3829487cbbf09b213f8adf9c8848383d0a8e67c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\2958625db18b483c9e69a0ee9e1ae440ec51af1e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="F:\AppSleepSound-20180621T085031Z-001\AppSleepSound\app\build\intermediates\pre-dexed\debug\classes_f1cb0b7da86ed2fb282a6c3d6cec17f50ca104b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\songsong\.android\build-cache\92ffa0ef298bef7eafa97f533c6de5961cd98046\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="F:\Android T3H\AppSleepSound\app\build\intermediates\pre-dexed\release\classes_a1d5675b2c794a1de3953aa58c5cf3447119c641.jar" />
+    </item>
+
+</items>

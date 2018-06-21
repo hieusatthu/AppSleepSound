@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\Android T3H\\AppSleepSound\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\bg_rain_two.jpg",
+        "source": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\drawable-ldpi\\bg_rain_two.jpg"
+    },
+    {
+        "merged": "F:\\Android T3H\\AppSleepSound\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\bg_ocean.jpg",
+        "source": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\drawable-ldpi\\bg_ocean.jpg"
+    },
+    {
+        "merged": "F:\\Android T3H\\AppSleepSound\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\bg_night.jpg",
+        "source": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\drawable-ldpi\\bg_night.jpg"
+    },
+    {
+        "merged": "F:\\Android T3H\\AppSleepSound\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\bg_music.jpg",
+        "source": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\drawable-ldpi\\bg_music.jpg"
+    },
+    {
+        "merged": "F:\\Android T3H\\AppSleepSound\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\bg_contry_side.jpg",
+        "source": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\drawable-ldpi\\bg_contry_side.jpg"
+    }
+]

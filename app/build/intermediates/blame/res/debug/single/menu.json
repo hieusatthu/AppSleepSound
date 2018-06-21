@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\AppSleepSound-20180621T085031Z-001\\AppSleepSound\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_navi.xml",
+        "source": "F:\\AppSleepSound-20180621T085031Z-001\\AppSleepSound\\app\\src\\main\\res\\menu\\menu_navi.xml"
+    },
+    {
+        "merged": "F:\\AppSleepSound-20180621T085031Z-001\\AppSleepSound\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_appbar.xml",
+        "source": "F:\\AppSleepSound-20180621T085031Z-001\\AppSleepSound\\app\\src\\main\\res\\menu\\menu_appbar.xml"
+    },
+    {
+        "merged": "F:\\Android T3H\\AppSleepSound\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_navi.xml",
+        "source": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\menu\\menu_navi.xml"
+    },
+    {
+        "merged": "F:\\Android T3H\\AppSleepSound\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_appbar.xml",
+        "source": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\menu\\menu_appbar.xml"
+    }
+]

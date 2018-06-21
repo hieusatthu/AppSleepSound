@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\Android T3H\\AppSleepSound\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi\\ic_star.png",
+        "source": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\mipmap-mdpi\\ic_star.png"
+    },
+    {
+        "merged": "F:\\Android T3H\\AppSleepSound\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\Android T3H\\AppSleepSound\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi\\clocktwo.png",
+        "source": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\mipmap-mdpi\\clocktwo.png"
+    },
+    {
+        "merged": "F:\\Android T3H\\AppSleepSound\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi\\ic_app_two.png",
+        "source": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\mipmap-mdpi\\ic_app_two.png"
+    },
+    {
+        "merged": "F:\\Android T3H\\AppSleepSound\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi\\ic_launcher.png",
+        "source": "F:\\Android T3H\\AppSleepSound\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

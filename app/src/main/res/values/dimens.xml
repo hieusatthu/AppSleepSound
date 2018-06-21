@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="heightNavi">56dp</dimen>
+    <dimen name="heightTextView">36dp</dimen>
+    <dimen name="marginTop">32dp</dimen>
+    <dimen name="widthIcon">72dp</dimen>
+    <dimen name="heightIcon">72dp</dimen>
+    <dimen name="marginLeft">32dp</dimen>
+    <dimen name="sizeText">24dp</dimen>
+    <dimen name="marginTopTwo">16dp</dimen>
+    <dimen name="marginTopIndicator">6dp</dimen>
+    <dimen name="marginIndicator">6dp</dimen>
+    <dimen name="widthIndicator">8dp</dimen>
+    <dimen name="heightIndicator">8dp</dimen>
+    <dimen name="heightViewIndicator">24dp</dimen>
+</resources>

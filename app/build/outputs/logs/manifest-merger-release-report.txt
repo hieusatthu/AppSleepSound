@@ -1,0 +1,272 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml:2:1-20:12
+	package
+		ADDED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml:4:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\songsong\.android\build-cache\f6079b56985e52a239043255766af364c054e951\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\songsong\.android\build-cache\92ffa0ef298bef7eafa97f533c6de5961cd98046\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\songsong\.android\build-cache\76687a62b5515d9c562028cc4fd990df548ef6c2\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml:4:22-64
+application
+ADDED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\songsong\.android\build-cache\735f90edc700c81af44b85432e1844b6de1c9425\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\38a5b0e65a81a3cc1d8681d021f3a78b0d211409\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\1e70aa6bf183c4f06647a45cd735a538ffb712ac\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\575d6ffb3ca26249f589b995a8eeff504ed50348\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\b496582d088b2ad223b54d961377fe9ed8203d0c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\cd6caa0785cf46261307e813b737e0e421360145\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-ads:10.0.1] C:\Users\songsong\.android\build-cache\fe9571b45afc8eb0a9f9b9cf9a57e6fe59532e3d\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\songsong\.android\build-cache\f6079b56985e52a239043255766af364c054e951\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\songsong\.android\build-cache\c918fb3bf540327096063b00a324f5ddb58e66f3\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\songsong\.android\build-cache\20ea40c90d53fa94737264ed3d36deef0bec888a\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\songsong\.android\build-cache\b3d22a44ae070b6076df1578c96b02d17d09eb37\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\songsong\.android\build-cache\d018072f0cd43477fc9e59d63b5cd790980455d5\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\songsong\.android\build-cache\92ffa0ef298bef7eafa97f533c6de5961cd98046\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\songsong\.android\build-cache\76687a62b5515d9c562028cc4fd990df548ef6c2\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\songsong\.android\build-cache\82c0257986ef6064780fdbd1960c15ce5fa8b6a3\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\songsong\.android\build-cache\36d8673f81b465503698fa6993cc67518adfdd2f\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\songsong\.android\build-cache\c096156512a53a84adbd7f7c288571fcccee87a7\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\000c9ac6678a0cdef0deaba2df1cbeafb9c993a2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\12cd98357a98f62455d691f1dd12a7e6856e4458\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\92a8e52474a07b75ddfd8801972f90e1ba8ce9c4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\7a4c44d57f1c61929f5d2d521a6144f0ba3620ed\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\883766fa501dd4d7e2278750f4d554c1bebb4dd7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\2958625db18b483c9e69a0ee9e1ae440ec51af1e\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml:9:9-54
+	android:allowBackup
+		ADDED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml:7:9-42
+	android:theme
+		ADDED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml:11:9-44
+activity#sound.sleepsound.soundleept3h.MainActivity
+ADDED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:screenOrientation
+		ADDED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml:13:13-49
+	android:name
+		ADDED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\songsong\.android\build-cache\735f90edc700c81af44b85432e1844b6de1c9425\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\38a5b0e65a81a3cc1d8681d021f3a78b0d211409\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\1e70aa6bf183c4f06647a45cd735a538ffb712ac\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\575d6ffb3ca26249f589b995a8eeff504ed50348\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\b496582d088b2ad223b54d961377fe9ed8203d0c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\e3f026cbb8cd0bd5ee61214d65d5ced2db9429b3\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\cd6caa0785cf46261307e813b737e0e421360145\output\AndroidManifest.xml:20:5-44
+MERGED from [me.relex:circleindicator:1.2.2] C:\Users\songsong\.android\build-cache\d0fa5ea75c2844132672c393da59bc1af11ea2f8\output\AndroidManifest.xml:8:5-10:41
+MERGED from [com.intuit.sdp:sdp-android:1.0.5] C:\Users\songsong\.android\build-cache\0c2dcb4aac0ff1ee7253f7a2abc30e33d576309e\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.eftimoff:android-viewpager-transformers:1.0.1] C:\Users\songsong\.android\build-cache\cad7cb10fdb02406de99033e67b18fb7a67f45c9\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-ads:10.0.1] C:\Users\songsong\.android\build-cache\fe9571b45afc8eb0a9f9b9cf9a57e6fe59532e3d\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] C:\Users\songsong\.android\build-cache\9961ef4d7885b2e31271cf046a6058348a40432d\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\songsong\.android\build-cache\f6079b56985e52a239043255766af364c054e951\output\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\songsong\.android\build-cache\c918fb3bf540327096063b00a324f5ddb58e66f3\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\songsong\.android\build-cache\20ea40c90d53fa94737264ed3d36deef0bec888a\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\songsong\.android\build-cache\b3d22a44ae070b6076df1578c96b02d17d09eb37\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\songsong\.android\build-cache\d018072f0cd43477fc9e59d63b5cd790980455d5\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\songsong\.android\build-cache\92ffa0ef298bef7eafa97f533c6de5961cd98046\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\songsong\.android\build-cache\76687a62b5515d9c562028cc4fd990df548ef6c2\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\songsong\.android\build-cache\82c0257986ef6064780fdbd1960c15ce5fa8b6a3\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\songsong\.android\build-cache\36d8673f81b465503698fa6993cc67518adfdd2f\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\songsong\.android\build-cache\c096156512a53a84adbd7f7c288571fcccee87a7\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\000c9ac6678a0cdef0deaba2df1cbeafb9c993a2\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\12cd98357a98f62455d691f1dd12a7e6856e4458\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\92a8e52474a07b75ddfd8801972f90e1ba8ce9c4\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\7a4c44d57f1c61929f5d2d521a6144f0ba3620ed\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\883766fa501dd4d7e2278750f4d554c1bebb4dd7\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\2958625db18b483c9e69a0ee9e1ae440ec51af1e\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\38a5b0e65a81a3cc1d8681d021f3a78b0d211409\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Android T3H\AppSleepSound\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\38a5b0e65a81a3cc1d8681d021f3a78b0d211409\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\1e70aa6bf183c4f06647a45cd735a538ffb712ac\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\575d6ffb3ca26249f589b995a8eeff504ed50348\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\b496582d088b2ad223b54d961377fe9ed8203d0c\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\e3f026cbb8cd0bd5ee61214d65d5ced2db9429b3\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\cd6caa0785cf46261307e813b737e0e421360145\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\000c9ac6678a0cdef0deaba2df1cbeafb9c993a2\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\12cd98357a98f62455d691f1dd12a7e6856e4458\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\92a8e52474a07b75ddfd8801972f90e1ba8ce9c4\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\7a4c44d57f1c61929f5d2d521a6144f0ba3620ed\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\883766fa501dd4d7e2278750f4d554c1bebb4dd7\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\2958625db18b483c9e69a0ee9e1ae440ec51af1e\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\38a5b0e65a81a3cc1d8681d021f3a78b0d211409\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\songsong\.android\build-cache\38a5b0e65a81a3cc1d8681d021f3a78b0d211409\output\AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\songsong\.android\build-cache\f6079b56985e52a239043255766af364c054e951\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\songsong\.android\build-cache\92ffa0ef298bef7eafa97f533c6de5961cd98046\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\songsong\.android\build-cache\76687a62b5515d9c562028cc4fd990df548ef6c2\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\songsong\.android\build-cache\f6079b56985e52a239043255766af364c054e951\output\AndroidManifest.xml:20:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\songsong\.android\build-cache\f6079b56985e52a239043255766af364c054e951\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\songsong\.android\build-cache\f6079b56985e52a239043255766af364c054e951\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\songsong\.android\build-cache\f6079b56985e52a239043255766af364c054e951\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\songsong\.android\build-cache\f6079b56985e52a239043255766af364c054e951\output\AndroidManifest.xml:25:19-71
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\songsong\.android\build-cache\f6079b56985e52a239043255766af364c054e951\output\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\songsong\.android\build-cache\f6079b56985e52a239043255766af364c054e951\output\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\songsong\.android\build-cache\f6079b56985e52a239043255766af364c054e951\output\AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\songsong\.android\build-cache\20ea40c90d53fa94737264ed3d36deef0bec888a\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\songsong\.android\build-cache\20ea40c90d53fa94737264ed3d36deef0bec888a\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\songsong\.android\build-cache\20ea40c90d53fa94737264ed3d36deef0bec888a\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\songsong\.android\build-cache\20ea40c90d53fa94737264ed3d36deef0bec888a\output\AndroidManifest.xml:19:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\songsong\.android\build-cache\92ffa0ef298bef7eafa97f533c6de5961cd98046\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\songsong\.android\build-cache\76687a62b5515d9c562028cc4fd990df548ef6c2\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\songsong\.android\build-cache\92ffa0ef298bef7eafa97f533c6de5961cd98046\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\songsong\.android\build-cache\92ffa0ef298bef7eafa97f533c6de5961cd98046\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\songsong\.android\build-cache\76687a62b5515d9c562028cc4fd990df548ef6c2\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\songsong\.android\build-cache\92ffa0ef298bef7eafa97f533c6de5961cd98046\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\songsong\.android\build-cache\92ffa0ef298bef7eafa97f533c6de5961cd98046\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\songsong\.android\build-cache\92ffa0ef298bef7eafa97f533c6de5961cd98046\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\songsong\.android\build-cache\92ffa0ef298bef7eafa97f533c6de5961cd98046\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\songsong\.android\build-cache\92ffa0ef298bef7eafa97f533c6de5961cd98046\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\songsong\.android\build-cache\92ffa0ef298bef7eafa97f533c6de5961cd98046\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\songsong\.android\build-cache\92ffa0ef298bef7eafa97f533c6de5961cd98046\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\songsong\.android\build-cache\92ffa0ef298bef7eafa97f533c6de5961cd98046\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\songsong\.android\build-cache\92ffa0ef298bef7eafa97f533c6de5961cd98046\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\songsong\.android\build-cache\92ffa0ef298bef7eafa97f533c6de5961cd98046\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\songsong\.android\build-cache\92ffa0ef298bef7eafa97f533c6de5961cd98046\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\songsong\.android\build-cache\76687a62b5515d9c562028cc4fd990df548ef6c2\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\songsong\.android\build-cache\92ffa0ef298bef7eafa97f533c6de5961cd98046\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\songsong\.android\build-cache\92ffa0ef298bef7eafa97f533c6de5961cd98046\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\songsong\.android\build-cache\92ffa0ef298bef7eafa97f533c6de5961cd98046\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\songsong\.android\build-cache\b99513265cc6425d4a2ffd3b4de9df0fb94f92c3\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\songsong\.android\build-cache\82c0257986ef6064780fdbd1960c15ce5fa8b6a3\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\songsong\.android\build-cache\82c0257986ef6064780fdbd1960c15ce5fa8b6a3\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\songsong\.android\build-cache\82c0257986ef6064780fdbd1960c15ce5fa8b6a3\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\songsong\.android\build-cache\82c0257986ef6064780fdbd1960c15ce5fa8b6a3\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\songsong\.android\build-cache\82c0257986ef6064780fdbd1960c15ce5fa8b6a3\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\songsong\.android\build-cache\c096156512a53a84adbd7f7c288571fcccee87a7\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\songsong\.android\build-cache\c096156512a53a84adbd7f7c288571fcccee87a7\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\songsong\.android\build-cache\c096156512a53a84adbd7f7c288571fcccee87a7\output\AndroidManifest.xml:20:20-65

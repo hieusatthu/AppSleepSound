@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+    <TextView
+        android:textColor="@color/colorTranspare"
+        android:id="@+id/txt_set_time"
+        android:textStyle="bold"
+        android:layout_marginTop="@dimen/_16sdp"
+        android:gravity="center"
+        android:text="Set time playing "
+        android:textSize="@dimen/_16sdp"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_36sdp" />
+    <EditText
+        android:background="@drawable/custom_btn_confirm"
+        android:singleLine="true"
+        android:drawableLeft="@drawable/pentwo"
+        android:drawablePadding="@dimen/_8sdp"
+        android:layout_marginLeft="@dimen/_32sdp"
+        android:layout_marginRight="@dimen/_32sdp"
+        android:textSize="@dimen/_16sdp"
+        android:textColorHint="@color/mauTrang"
+        android:id="@+id/edt_set_time"
+        android:inputType="number"
+        android:hint="Input minute"
+        android:layout_marginTop="@dimen/_16sdp"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_48sdp"
+        android:layout_below="@+id/txt_set_time"
+        android:layout_centerHorizontal="true" />
+    <Button
+        android:textAllCaps="false"
+        android:id="@+id/btn_confirm"
+        android:text="Confirm"
+        android:textSize="@dimen/_18sdp"
+        android:layout_marginTop="@dimen/_16sdp"
+        android:layout_alignRight="@+id/edt_set_time"
+        android:layout_below="@+id/edt_set_time"
+        android:background="@drawable/custom_btn_confirm"
+        android:layout_width="@dimen/_72sdp"
+        android:layout_height="@dimen/_32sdp" />
+    <Button
+        android:textAllCaps="false"
+        android:id="@+id/btn_cancel"
+        android:text="Cancel"
+        android:textSize="@dimen/_18sdp"
+        android:layout_marginTop="@dimen/_16sdp"
+        android:layout_alignLeft="@+id/edt_set_time"
+        android:layout_below="@+id/edt_set_time"
+        android:background="@drawable/custom_btn_confirm"
+        android:layout_width="@dimen/_72sdp"
+        android:layout_height="@dimen/_32sdp" />
+</RelativeLayout>

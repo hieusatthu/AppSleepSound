@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="customAppbar" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/mauTimNhat</item>
+        <item name="colorPrimaryDark">@color/mauTimDam</item>
+        <item name="android:textColorPrimary">@color/mauTrang</item>
+        <item name="android:navigationBarColor">@color/mauTimNhat</item>
+        <item name="android:windowBackground">@color/colorBlue</item>
+    </style>
+
+    <style name="MyDialogTheme" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:background">@color/colorTranspare</item>
+    </style>
+</resources>

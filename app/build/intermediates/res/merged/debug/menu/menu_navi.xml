@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:title="Rain"
+    android:id="@+id/menu_item_rain"
+    android:icon="@drawable/ic_rain_night"        />
+    <item
+        android:title="Ocean"
+        android:id="@+id/menu_item_ocean"
+        android:icon="@drawable/ic_ocean_dolphin"/>
+    <item
+        android:id="@+id/menu_item_summer"
+        android:icon="@drawable/ic_summer_tree"
+        android:title="Summer" />
+    <item
+        android:title="Night"
+        android:id="@+id/menu_item_night"
+        android:icon="@drawable/ic_night_moon"        />
+    <item
+        android:title="Music"
+        android:id="@+id/menu_item_music"
+        android:icon="@drawable/ic_music_guitar"
+        />
+</menu>
